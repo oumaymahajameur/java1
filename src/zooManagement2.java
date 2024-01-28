@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class zooManagement2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        // test
         System.out.print("Veuillez entrer le nombre de cages : ");
         int nbrCages = scanner.nextInt();
 
